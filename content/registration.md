@@ -5,4 +5,4 @@ draft: false
 form: true
 ---
 
-***Proceed only after calling the office and confirming with one of our staff members!***
+***Please call the office to discuss tutor availability before submitting a registration form!***
