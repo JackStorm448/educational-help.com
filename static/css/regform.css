@@ -44,8 +44,10 @@ br {
 }
 .active {
     display: none;
+    overflow: hidden;
 }
 .panel {
-    display: none;
+    max-height: 0;
     overflow: hidden;
+    transition: 1s ease-out;
   }

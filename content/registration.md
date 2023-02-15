@@ -5,6 +5,4 @@ draft: false
 form: true
 ---
 
-Please fill out and submit this form to register for tutoring. 
-
-***Have you called the office and spoken with one of our staff about tutoring?***
+***Proceed only after calling the office and confirming with one of our staff members!***
